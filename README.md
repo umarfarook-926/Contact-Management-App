@@ -27,7 +27,7 @@ cd contact-management-app
 The application uses SQLite. A database file contacts.db will be created automatically when the server runs.
 
 ### 4. Start the Server
-`npm start`
+`node server.js`
 Server runs on http://localhost:5000
 
 ### 5. Run Unit Tests
