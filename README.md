@@ -5,8 +5,7 @@ A simple RESTful API for managing contacts using **Node.js, Express.js, and SQLi
 ## 🚀 Features
 -  Create, Read, Update, and Delete (CRUD) contacts  
 -  SQLite database for data storage  
--  Input validation using `express-validator`  
--  Search contacts by **name** or **email**  
+-  Input validation using `express-validator`   
 -  Error handling for invalid inputs and missing data  
 -  Unit testing with **Jest & Supertest**  
 
@@ -18,7 +17,7 @@ A simple RESTful API for managing contacts using **Node.js, Express.js, and SQLi
 
 ## 🔧 Installation & Setup
 ### 1️.Clone the Repository
-git clone https://github.com/your-username/contact-management-app.git
+`git clone https://github.com/your-username/contact-management-app.git`
 cd contact-management-app
 
 ### 2. Install Dependencies
